@@ -57,5 +57,5 @@ Confusion matrix shows very few misclassifications (mainly around visually simil
 ### 🔧 Installation
 
 ```bash
-git clone https://github.com/yourusername/SVM-Digits-Classification.git
+git clone https://github.com/Srikanth2001-tech/Forecasting-Daily-Bike-Rentals-with-an-LSTM.git
 cd SVM-Digits-Classification
